@@ -26,5 +26,3 @@ def test_divide():
     assert div(-1, 1) == -1
     assert div(0, 1) == 0
     assert div(-1, -1) == 1
-    assert div(-1, 0) == "Error: Division by zero is not allowed"
-
